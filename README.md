@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksonawane100" alt="pratiksonawane100" /></a> </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/PratikSonawane)
+##  LeetCode Submission Heatmap
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/PratikSonawane?ext=heatmap)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pratik-sonawane.vercel.app/](https://portfolio-pratik-sonawane.vercel.app/)
 
