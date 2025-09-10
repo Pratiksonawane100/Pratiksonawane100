@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**Pratiksonawane100/Pratiksonawane100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | 💻 Full-Stack Enthusiast | 🌱 Always Learning  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: JavaScript, Python, Java  
+- **Frontend**: React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 📝 [User Management API](https://github.com/your-username/user-management-api)  
+- 🎮 [Coding Programming Quiz](https://github.com/your-username/quiz-app)  
+- 🚦 [Real-Time Accident Detection](https://github.com/your-username/accident-detection)  
+
+## 📫 Connect with Me
+- Email: your-email@example.com  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+
+⭐️ From [your-username](https://github.com/your-username)
